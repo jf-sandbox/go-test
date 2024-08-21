@@ -1,5 +1,5 @@
 {
-    "settingsInheritedFrom": "jf-sandbox/whitesource-config@customer",
+    "settingsInheritedFrom": "jf-sandbox/whitesource-config@main",
     "remediateSettings":
     {
         "commitMessagePrefix": "[NO JIRA] ",
